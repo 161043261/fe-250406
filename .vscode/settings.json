@@ -1,3 +1,8 @@
 {
-  "editor.fontFamily": "Iosevka, LXGW WenKai"
+  "files.associations": {
+    "*.page-template": "vue",
+    "*.layout-template": "vue",
+    "*.vue": "vue",
+    "*.json": "jsonc"
+  }
 }

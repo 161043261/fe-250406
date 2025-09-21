@@ -5,8 +5,8 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Launch Program",
-      "program": "${workspaceFolder}/dist/main.js",
+      "name": "debugger",
+      "program": "${workspaceFolder}/apps/backend/dist/main.js",
       "request": "launch",
       "skipFiles": ["<node_internals>/**"],
       "type": "node"
